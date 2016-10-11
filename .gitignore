@@ -91,5 +91,5 @@ ENV/
 # config
 config.py
 
-download_articles.txt
+downloaded_articles.txt
 log/
