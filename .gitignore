@@ -90,3 +90,6 @@ ENV/
 
 # config
 config.py
+
+download_articles.txt
+log/
